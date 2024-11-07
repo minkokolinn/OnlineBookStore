@@ -1,0 +1,186 @@
+/*
+Template Name:Cart Shop
+File: Layout CSS
+Author: Templates On Web
+Author URI: http://templateonweb.com/
+Licence: <a href="http://www.templateonweb.com/terms.php?v=content&contentid=152">Website Template Licence</a>
+*/
+/*********************checkout****************/
+.center_shop{
+ padding-top:100px;
+ padding-bottom:100px;
+ background:#33996621;
+ }
+.cart_1i1 .span_1{
+background:#339966;
+width:40px;
+height:40px;
+line-height:38px;
+text-align:center;
+display:inline-block;
+border-radius:50%;
+margin-right:10px; 
+border:1px solid;
+ }
+.cart_1i1 .span_3{
+ margin-left:10px;
+ color:#999;
+ }
+.cart_1i2 .span_1{
+width:40px;
+height:40px;
+line-height:38px;
+text-align:center;
+display:inline-block;
+border-radius:50%;
+margin-right:10px; 
+border:1px dashed #ddd;
+ }
+.cart_1i2 .span_3{
+ margin-left:10px;
+ color:#999;
+ }
+#cart{
+padding-top:40px;
+padding-bottom:40px; 
+ }
+.cart_1{
+border:1px solid #ddd;
+padding:40px 15px;
+margin-left:15px;
+margin-right:15px; 
+ }
+.cart_1i h4{
+margin-top:10px; 
+ }
+
+.checkout{
+margin-top:30px; 
+ }
+.checkout_l h4 span{
+font-size:16px; 
+ }
+.checkout_l h4{
+border-bottom:1px solid #ddd;
+padding-bottom:10px;
+ }
+.checkout_l1 .form-control{
+height:40px; 
+margin-top:15px;
+font-size:18px;
+ }
+.checkout_l1n .span_1{
+ background:#339966;
+ width:120px;
+ height:120px;
+ display:inline-block;
+ text-align:center;
+ padding-top:22px;
+ border-radius:50%;
+ color:#fff;
+ }
+.checkout_l1n ul li{
+ margin-left:10px;
+ margin-right:10px;
+ }
+.checkout_l1n .span_2{
+ background:#fafafa;
+ width:120px;
+ height:120px;
+ display:inline-block;
+ text-align:center;
+ padding-top:22px;
+ border-radius:50%;
+ color:#999;
+ }
+.bg_1{
+background: #33996617;
+padding:25px 20px 40px 20px; 
+ }
+/*********************checkout_end****************/
+
+@media screen and (max-width : 767px){
+.cart_1i2 h5{
+ font-size:16px;
+ }
+.cart_1i1 h5{
+ font-size:16px;
+ }
+#cart{
+text-align:center; 
+ }
+.cart_1i1 {
+margin-top:15px; 
+ }
+.cart_1i2 {
+margin-top:15px; 
+ }
+.bg_1{
+margin-top:10px; 
+ }
+.checkout_l1n li{
+ margin-top:10px;
+ }
+.checkout_l1 {
+ text-align:center;
+ }
+.checkout_l {
+ text-align:left; 
+ }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+.cart_1i1 h5{
+ font-size:12px;
+ }
+.cart_1i2 h5{
+ font-size:12px;
+ }
+.cart_1i2 .span_1{
+margin-right:0;
+width:25px;
+height:25px;
+line-height:23px; 
+ }
+.cart_1i1 .span_1{
+margin-right:0;
+width:25px;
+height:25px;
+line-height:23px; 
+ }
+.cart_1 .col-sm-3{
+padding-left:5px;
+padding-right:5px; 
+ }
+.cart_1i h4{
+margin-top:0; 
+ }
+.checkout_l h4{
+font-size:16px; 
+ }
+.checkout_l h4 span{
+ font-size:14px; 
+ }
+.checkout_l1n ul li{
+margin-bottom:5px; 
+ }
+ }
+@media (min-width:992px) and (max-width:1200px) {
+.cart_1i1 h5{
+ font-size:14px;
+ }
+.cart_1i2 h5{
+ font-size:15px;
+ }
+.checkout_l1n ul li{
+margin-left:0;
+margin-right:0; 
+ }
+ }
+@media (min-width:1201px) and (max-width:1350px) {
+
+ }
+
+
+
+
